@@ -1,0 +1,15 @@
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\bin\Debug\net8.0\RefOut.exe
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\bin\Debug\net8.0\RefOut.deps.json
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\bin\Debug\net8.0\RefOut.runtimeconfig.json
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\bin\Debug\net8.0\RefOut.dll
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\bin\Debug\net8.0\RefOut.pdb
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\RefOut.AssemblyInfoInputs.cache
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\RefOut.AssemblyInfo.cs
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\RefOut.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\RefOut.sourcelink.json
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\RefOut.dll
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\refint\RefOut.dll
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\RefOut.pdb
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\RefOut.genruntimeconfig.cache
+C:\Users\Ulvi Abdullazada\Desktop\BP110\RefOut\RefOut\obj\Debug\net8.0\ref\RefOut.dll
