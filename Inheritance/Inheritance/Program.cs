@@ -1,4 +1,5 @@
-﻿using Inheritance.Models;
+﻿using System.Diagnostics.CodeAnalysis;
+using Inheritance.Models;
 
 namespace Inheritance
 {
@@ -58,12 +59,27 @@ namespace Inheritance
             //int num;
             //int.TryParse(Console.ReadLine(), out int num);
             //Console.WriteLine(num);
-            string word = "Salam";
-            ToBigA(ref word);
-            Console.WriteLine(word);
+            //string word = "Salam";
+            //ToBigA(word);
+            //Console.WriteLine(word);
+
+            int[] arr = [1, 21, 44, 12, 54, 66, 734];
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    Console.WriteLine(arr[i]);
+            //}
+            int sum = 0;
+            foreach (int num in arr)
+            {
+                if (num % 2 == 1)
+                {
+                    sum += num;
+                }
+            }
+            Console.WriteLine(sum);
         }
 
-        static void ToBigA(ref string text)
+        static void ToBigA(string text)
         {
             string result = "";
             for (int i = 0; i < text.Length; i++)
@@ -84,6 +100,12 @@ namespace Inheritance
         //{
         //    salary = 4000;
         //    //salary += salary * 0.25f;
+        //}
+
+        //static float CalculateBonus(in float salary)
+        //{
+        //    salary = 12;
+        //    return salary * 0.25f;
         //}
 
 
