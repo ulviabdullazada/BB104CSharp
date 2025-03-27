@@ -1,0 +1,12 @@
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\bin\Debug\net8.0\AuthSystem.deps.json
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\bin\Debug\net8.0\AuthSystem.dll
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\bin\Debug\net8.0\AuthSystem.pdb
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\obj\Debug\net8.0\AuthSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\obj\Debug\net8.0\AuthSystem.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\obj\Debug\net8.0\AuthSystem.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\obj\Debug\net8.0\AuthSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\obj\Debug\net8.0\AuthSystem.sourcelink.json
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\obj\Debug\net8.0\AuthSystem.dll
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\obj\Debug\net8.0\refint\AuthSystem.dll
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\obj\Debug\net8.0\AuthSystem.pdb
+C:\Users\Ülvi\Desktop\BB104CSharp\AccessModifiers\AuthSystem\obj\Debug\net8.0\ref\AuthSystem.dll
