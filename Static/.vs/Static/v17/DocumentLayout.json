@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C65335D-BE3F-4308-BA83-15EA47CA9E26}|Static\\Static.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\static\\static\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C65335D-BE3F-4308-BA83-15EA47CA9E26}|Static\\Static.csproj|solutionrelative:static\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C65335D-BE3F-4308-BA83-15EA47CA9E26}|Static\\Static.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\static\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C65335D-BE3F-4308-BA83-15EA47CA9E26}|Static\\Static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C65335D-BE3F-4308-BA83-15EA47CA9E26}|Static\\Static.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\static\\static\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C65335D-BE3F-4308-BA83-15EA47CA9E26}|Static\\Static.csproj|solutionrelative:static\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C65335D-BE3F-4308-BA83-15EA47CA9E26}|Static\\Static.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\static\\static\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C65335D-BE3F-4308-BA83-15EA47CA9E26}|Static\\Static.csproj|solutionrelative:static\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Static\\Static\\Extensions\\StringExtension.cs",
+              "RelativeDocumentMoniker": "Static\\Extensions\\StringExtension.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Static\\Static\\Extensions\\StringExtension.cs",
+              "RelativeToolTip": "Static\\Extensions\\StringExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:04:09.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Static\\Static\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Static\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Static\\Static\\Models\\Person.cs",
+              "RelativeToolTip": "Static\\Models\\Person.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:02:17.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Static\\Static\\Test.cs",
+              "RelativeDocumentMoniker": "Static\\Test.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Static\\Static\\Test.cs",
+              "RelativeToolTip": "Static\\Test.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:55:46.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Static\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "Static\\Program.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Static\\Static\\Program.cs",
+              "RelativeToolTip": "Static\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:12:54.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
