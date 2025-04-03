@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Polimorphism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\polimorphism\\polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\polimorphism\\polimorphism\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\polimorphism\\polimorphism\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\polimorphism\\polimorphism\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\polimorphism\\polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCCCB69-7E68-43F8-9A50-839AC6EBE7CC}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ISwim.cs",
-              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Polimorphism\\Polimorphism\\ISwim.cs",
-              "RelativeDocumentMoniker": "Polimorphism\\ISwim.cs",
-              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Polimorphism\\Polimorphism\\ISwim.cs",
-              "RelativeToolTip": "Polimorphism\\ISwim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Polimorphism\\Polimorphism\\Calculate.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Calculate.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Polimorphism\\Polimorphism\\Calculate.cs",
+              "RelativeToolTip": "Polimorphism\\Calculate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwBcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T06:14:21.052Z",
+              "WhenOpened": "2025-04-02T06:21:47.83Z",
               "EditorCaption": ""
             },
             {
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "Polimorphism\\Animal.cs",
               "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Polimorphism\\Polimorphism\\Animal.cs",
               "RelativeToolTip": "Polimorphism\\Animal.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAswGAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAywFwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T04:36:34.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Polimorphism\\Polimorphism\\Program.cs",
               "RelativeDocumentMoniker": "Polimorphism\\Program.cs",
               "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\Polimorphism\\Polimorphism\\Program.cs",
               "RelativeToolTip": "Polimorphism\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAMwB4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwBgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T04:34:24.186Z",
               "EditorCaption": ""

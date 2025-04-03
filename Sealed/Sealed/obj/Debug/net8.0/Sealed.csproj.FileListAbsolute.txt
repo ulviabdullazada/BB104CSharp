@@ -1,0 +1,15 @@
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\bin\Debug\net8.0\Sealed.exe
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\bin\Debug\net8.0\Sealed.deps.json
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\bin\Debug\net8.0\Sealed.runtimeconfig.json
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\bin\Debug\net8.0\Sealed.dll
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\bin\Debug\net8.0\Sealed.pdb
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\Sealed.AssemblyInfoInputs.cache
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\Sealed.AssemblyInfo.cs
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\Sealed.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\Sealed.sourcelink.json
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\Sealed.dll
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\refint\Sealed.dll
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\Sealed.pdb
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\Sealed.genruntimeconfig.cache
+C:\Users\Ulvi Abdullazada\Desktop\BP110\Sealed\Sealed\obj\Debug\net8.0\ref\Sealed.dll
