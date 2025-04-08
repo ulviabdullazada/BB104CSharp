@@ -1,0 +1,15 @@
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\bin\Debug\net8.0\OrtayaQarisiq.exe
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\bin\Debug\net8.0\OrtayaQarisiq.deps.json
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\bin\Debug\net8.0\OrtayaQarisiq.runtimeconfig.json
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\bin\Debug\net8.0\OrtayaQarisiq.dll
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\bin\Debug\net8.0\OrtayaQarisiq.pdb
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\OrtayaQarisiq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\OrtayaQarisiq.AssemblyInfoInputs.cache
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\OrtayaQarisiq.AssemblyInfo.cs
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\OrtayaQarisiq.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\OrtayaQarisiq.sourcelink.json
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\OrtayaQarisiq.dll
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\refint\OrtayaQarisiq.dll
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\OrtayaQarisiq.pdb
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\OrtayaQarisiq.genruntimeconfig.cache
+C:\Users\Ulvi Abdullazada\Desktop\BP110\OrtayaQarisiq\OrtayaQarisiq\obj\Debug\net8.0\ref\OrtayaQarisiq.dll
